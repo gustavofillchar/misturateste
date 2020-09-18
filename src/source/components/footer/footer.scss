@@ -1,0 +1,60 @@
+.footer-background {
+  background-color: #c9c9c9;
+  float: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+
+  p {
+    color: #000;
+    margin: 0;
+    font-size: 1em;
+
+    a {
+      text-decoration: none;
+      color: #000;
+
+      span {
+        font-size: 0.75em;
+      }
+    }
+  }
+
+  .title {
+    font-weight: 700;
+    color: #000;
+  }
+
+  .imgLogoFooter {
+    height: 160px;
+  }
+
+  .imgFront {
+    height: 150px;
+    border-radius: 5px;
+  }
+}
+.barMade {
+  background-color: #cf6f54;
+  float: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+
+  .text {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #fff;
+    font-size: 0.85em;
+    opacity: 0.8;
+  }
+
+  img {
+    height: 15px;
+    margin: 0 6px;
+  }
+}

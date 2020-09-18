@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;700;900&display=swap");
+
+h6 {
+  font-family: "Dancing Script", cursive;
+  color: #9b5941;
+  font-size: 2.1em;
+  font-weight: 700;
+}
+.background-products {
+  background-color: #fafafa;
+  padding: 20px 0;
+  background-image: url("../../assets/funco.png");
+  background-size: 220px;
+  float: left;
+  width: 100%;
+
+  .getListProducts {
+    cursor: pointer;
+    text-align: center;
+    margin: 20px 0 0 0;
+    float: left;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+
+    .actionButton {
+      border: solid 1px #9b5941;
+      background-color: #ffeae2;
+      float: left;
+      font-family: "Raleway", sans-serif;
+      color: #9b5941;
+      font-weight: 700;
+      padding: 7px 15px;
+      font-size: 0.8em;
+      border-radius: 5px;
+      margin: 0 0 20px 0;
+      transition: 500ms;
+    }
+    .actionButton:hover {
+      transition: 500ms;
+      background-color: #9b5941;
+      color: #fff;
+    }
+  }
+
+  h2 {
+    font-family: "Dancing Script", cursive;
+    color: #9b5941;
+    font-size: 3.5em;
+    font-weight: 700;
+    text-align: center;
+    margin: 15px 0 15px 5px;
+  }
+
+  p {
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #535352;
+    font-weight: 500;
+    font-size: 1.1em;
+    margin: 0 0 25px 0;
+  }
+  .product-list {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+
+    .box-product {
+      margin: 5px;
+      width: calc(25% - 10px);
+      background-color: transparent;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .button-item {
+        width: 100%;
+        text-align: center;
+        .text-item {
+          text-align: center;
+
+          text-decoration: none;
+          color: #9b5941;
+          margin: 0 0 5px 0;
+          border-radius: 5px;
+          font-weight: 700;
+          border: solid 1px #c0a49a;
+          width: 100%;
+          float: left;
+          font-family: "Dancing Script", cursive;
+          font-size: 1.7em;
+          box-shadow: #777;
+          transition: 500ms;
+        }
+      }
+
+      .button-item:hover {
+        width: 100%;
+        text-align: center;
+        .text-item {
+          text-align: center;
+          transition: 500ms;
+          text-decoration: none;
+          color: #fff;
+          background-color: #9b5941;
+          margin: 0 0 5px 0;
+          border-radius: 5px;
+          font-weight: 700;
+          border: solid 1px #c0a49a;
+          width: 100%;
+          float: left;
+          font-family: "Dancing Script", cursive;
+          font-size: 1.7em;
+          box-shadow: #777;
+        }
+      }
+
+      .BannerImage {
+        border-radius: 5px;
+        background-color: #000;
+        img {
+          transition: 500ms;
+          width: 100%;
+          float: left;
+          border-radius: 5px;
+        }
+      }
+
+      .BannerImage:hover {
+        border-radius: 5px;
+        background-color: #000;
+
+        img {
+          transition: 500ms;
+          width: 100%;
+          opacity: 0.85;
+          float: left;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+}

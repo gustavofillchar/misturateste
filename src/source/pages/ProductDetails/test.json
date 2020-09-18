@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "key": "compotas",
+      "description": "Doces em Compotas",
+      "textsub": [
+        "Jabuticaba: nossa menina dos olhos, graciosa e esplêndida. A jabuticaba além de saborosa é riquíssima em vitaminas e minerais. Nativa da mata atlântica, pode ser usada em diversas receitas. Aqui a transformamos em uma incrível e charmosa compota, feita com sua casca, agrega sabor e peculiaridade em diversos pratos, tanto doces quanto salgados.",
+        "Goiaba: Divina! É a descrição perfeita para a compota de goiaba. Conhecida popularmente por goiaba orelha, cultiva seus admiradores por sua maciez, suculência e sabor marcante. Sua cor vermelho vibrante aguça os paladares e aflora sentimentos únicos provenientes de um sabor irresistível. É a nossa campeã de vendas!",
+        "Pêssego: Aveludado e supremo! Esse é o pêssego, um dos nossos doces mais apreciados. Diferente de tudo que já se viu, nosso doce de pêssego se diferencia pelo formato e sabor, pois é feito com a fruta inteira do pêssego, preservando seu formato original, garantindo a máxima qualidade. Combina muito bem com uma de nossas principais iguarias, nosso famoso e tradicional queijo mineiro.",
+        "Laranja Kinkan: a pequenina laranja kinkan é inesquecível! Saborosa, única e inigualável. A fruta é conhecida como laranjinha de ouro e encanta por sua aparência graciosa e sabor marcante. De pele macia pode ser usada em muitas receitas, a laranja kinkan é símbolo de felicidade.",
+        "Mamão Rolinho: de clima tropical o mamão é um velho conhecido, aqui nós transformamos essa fruta forte em uma delicada doçura. O doce de mamão enroladinho é uma relíquia mineira e com seu toque aveludado nos transporta a tempos felizes: casa de vó e cheirinho de ternura. Ele pode ser servido com outra iguaria mineira muito apreciada, o tradicional doce de leite.",
+        "Limão: que o limão tem inúmeros benefícios todos já sabem, mas o que poucos conhecem é que somado a açúcar, água, paciência e carinho, se transforma em um delicioso doce. Nossa mais nova criação vem percorrendo o Brasil e sendo admirado pelos apaixonados por compotas de sabor marcante."
+      ],
+      "banner-01": "compotas/banner-1",
+      "banner-02": "compotas/banner-2",
+      "data": [
+        {
+          "title": "Mamão bordado",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/mamaobordado"
+        },
+        {
+          "title": "Abacaxi",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/abacaxi"
+        },
+        {
+          "title": "Abóbora Pedaço",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboborapedaco"
+        },
+        {
+          "title": "Laranja Kinkan",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjakinkan"
+        },
+        {
+          "title": "Banana",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/banana"
+        },
+        {
+          "title": "Cidra",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/banana"
+        },
+        {
+          "title": "Cumbuca Laranja com Abóbora Flor",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/cumbucalaranjacomaboboraflor"
+        },
+        {
+          "title": "Cumbuca Laranja com Mamão",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/cumbucalaranjacommamao"
+        },
+        {
+          "title": "Figo",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/figo"
+        },
+        {
+          "title": "Mamão Rolinho",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/mamaorolinho"
+        },
+        {
+          "title": "Pêssego",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/pessego"
+        },
+        {
+          "title": "Abacaxi com Laranja Kinkan",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/abacaxicomlaranjakinkan"
+        },
+        {
+          "title": "Frutas Mistas Simples",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/frutasmistassimples"
+        },
+        {
+          "title": "Frutas Mistas Personalizadas",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/frutasmistaspersonalizadas"
+        },
+        {
+          "title": "Mini Figo",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/minifigo"
+        },
+        {
+          "title": "Abóbora Florzinha",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboboraflorzinha"
+        },
+        {
+          "title": "Jabuticaba",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/jabuticaba"
+        },
+        {
+          "title": "Laranja da Terra",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjadaterra"
+        },
+        {
+          "title": "Goiaba",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/goiaba"
+        },
+        {
+          "title": "Laranja Metade",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjametade"
+        },
+        {
+          "title": "Limão",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/limao"
+        },
+        {
+          "title": "Goiaba Cremosa Lisa e Cascão",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/goiabacremosalisaecascao"
+        },
+        {
+          "title": "Abóbora Cremosa",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboboracremosa"
+        },
+        {
+          "title": "Abóbora Cremosa com Coco",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboboracremosacomcoco"
+        },
+        {
+          "title": "Abacaxi",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/abacaxi320"
+        },
+        {
+          "title": "Abóbora Pedaço",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboborapedaco320"
+        },
+        {
+          "title": "Laranja Metade",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjametade320"
+        },
+        {
+          "title": "Limão",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/limao320"
+        },
+        {
+          "title": "Banana",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/banana320"
+        },
+        {
+          "title": "Abacaxi com Laranja Kinkan",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/abacaxicomlaranjakinkan320"
+        },
+        {
+          "title": "Figo",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/figo320"
+        },
+        {
+          "title": "Frutas Mistas Simples",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/frutasmistassimples320"
+        },
+        {
+          "title": "Frutas Mistas Personalizadas",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/frutasmistaspersonalizadas320"
+        },
+        {
+          "title": "Goiaba",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/goiaba320"
+        },
+        {
+          "title": "Mini Figo",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/minifigo320"
+        },
+        {
+          "title": "Jabuticaba",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/jabuticaba320"
+        },
+        {
+          "title": "Laranja da Terra",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjadaterra320"
+        },
+        {
+          "title": "Laranja Kinkan",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/laranjakinkan320"
+        },
+        {
+          "title": "Abóbora Florzinha",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/aboboraflorzinha320"
+        },
+        {
+          "title": "Mamão Rolinho",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/mamaorolinho320"
+        },
+        {
+          "title": "Mamão Bordado",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/mamaobordado320"
+        },
+        {
+          "title": "Pêssego",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/pessego320"
+        },
+        {
+          "title": "Goiaba Cremosa Lisa e Cascão",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/goiabacremosalisaecascao320"
+        },
+        {
+          "title": "Abóbora Cremosa",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/cumbucalaranjacommamao"
+        },
+        {
+          "title": "Abóbora Cremosa com Coco",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "compotas/cumbucalaranjacommamao"
+        }
+      ]
+    },
+    {
+      "key": "cristalizados",
+      "description": "Cristalizados",
+      "textsub": [
+        "As frutas cristalizadas são cuidadosamente preparadas por mãos habilidosas que, adicionando apenas água, açúcar e uma pitada de amor, as transformam em verdadeiras obras de arte.",
+        "• Figo: o figo é uma fruta versátil que pode ser transformado em doces saborosos e elegantes. Depois de cristalizado ele se transforma em um doce suculento por dentro e sequinho por fora. Ele sem dúvida é o nosso queridinho, pois além de ter um sabor único, podemos combina-lo com outros ingredientes, como nozes e doce de leite, que o deixa ainda mais espetacular! Com o seu verde brilhante, ele além de surpreender com o seu sabor, ainda irá agregar beleza à sua mesa.",
+        "• Mamão Bordado: O mamão tem origem tropical no noroeste da América do Sul e se adaptou muito bem ao Brasil, e os estados que se destacam na sua produção são Bahia, Espirito Santo e Pará. ",
+        "Nossos doces são produzidos com o mamão ainda verde, pois usamos sua polpa firme e sua casca verde para esculpir os desenhos manualmente pelas mãos das bordadeiras da cidade. Conseguimos dar várias formas ao doce de mamã que com seu sabor suave e sua delicadeza encanta a todos que o experimentam.",
+        "• Abóbora: a abobora é símbolo de abundancia e prosperidade, e aqui não é diferente, pois o nosso doce de abóbora é uma de nossas receitas mais tradicionais, que remete a lembranças da infância. Dono de um sabor peculiar e marcante, a florzinha de abóbora é um dos produtos mais apreciados por nossos clientes, um trabalho que requer paciência e muito amor."
+      ],
+      "banner-01": "compotas/banner-1",
+      "banner-02": "compotas/banner-2",
+      "data": [
+        {
+          "title": "Abacaxi",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/abacaxi"
+        },
+        {
+          "title": "Abacaxi com Nozes",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/abacaxi"
+        },
+        {
+          "title": "Abóbora Simples",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/abacaxi"
+        },
+        {
+          "title": "Abóbora Flor",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/aboboraflor"
+        },
+        {
+          "title": "Banana",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/banana"
+        },
+        {
+          "title": "Figo",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/figo"
+        },
+        {
+          "title": "Figo com Nozes",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/figocomnozes"
+        },
+        {
+          "title": "Mamão Bordado",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/mamaobordado"
+        },
+        {
+          "title": "Mamão Rolinho",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/mamaorolinho"
+        },
+        {
+          "title": "Mamão Pedaço",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/mamaobordado"
+        },
+        {
+          "title": "Laranja da Terra",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/laranjadaterra"
+        },
+        {
+          "title": "Laranja Kinkan",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/laranjakinkan"
+        },
+        {
+          "title": "Embalagem 200g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/embalagem200gr"
+        },
+        {
+          "title": "Embalagem 400g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/embalagem400g"
+        },
+        {
+          "title": "Embalagem 1,3kg",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/mamaobordado"
+        },
+        {
+          "title": "Embalagem 100g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/embalagem100g"
+        },
+        {
+          "title": "Embalagem 250g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/embalagem250g"
+        },
+        {
+          "title": "Embalagem 500g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "cristalizados/embalagem500g"
+        }
+      ]
+    },
+    {
+      "key": "casquinha",
+      "description": "Casquinha De Fruta",
+      "textsub": [
+        "Crocante e Irresistível, ela adoça a vida e o café! A casquinha de laranja e de limão é um produto feito a base da combinação da casca de frutas e açúcar, e acompanha muito bem cafés, chás e também podem ser consumidas sozinhas. Elas são cuidadosamente preparadas para proporcionar um sabor surpreendente que irá ficar na marcado na sua memória com gostinho de quero mais."
+      ],
+      "banner-01": "compotas/banner-1",
+      "banner-02": "compotas/banner-2",
+      "data": [
+        {
+          "title": "Casquinha Laranja 100g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalaranja100g"
+        },
+        {
+          "title": "Casquinha Laranja 200g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalaranja200g"
+        },
+        {
+          "title": "Casquinha Laranja 1kg",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalaranja1kg"
+        },
+        {
+          "title": "Casquinha Limão 100g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao100g"
+        },
+        {
+          "title": "Casquinha Limão 200g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao200g"
+        },
+        {
+          "title": "Casquinha Limão 1kg",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao1kg"
+        },
+        {
+          "title": "Casquinha Laranja 100g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao1kg"
+        },
+        {
+          "title": "Casquinha Laranja 200g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalaranja200gr"
+        },
+        {
+          "title": "Casquinha Limão 100g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao100gr"
+        },
+        {
+          "title": "Casquinha Limão 200g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "casquinhas/casquinhalimao200gr"
+        }
+      ]
+    },
+    {
+      "key": "goiabada",
+      "description": "Goiabada",
+      "textsub": [
+        "A goiabada surgiu no Brasil através dos portugueses, partiu da necessidade de conservação do fruto da goiaba e como alternativa a marmelada, doce feito a base de marmelo. Ela surgiu no estado de Minas Gerais e logo se popularizou pelo país, caindo no gosto dos brasileiros por sua explosão de sabor e suculência. Uma das combinações mais populares é quando se junta a goiabada com o tradicional queijo mineiro, dando origem a famosa sobremesa conhecida como Romeu e Julieta, personagens de um drama romântico de Shakespeare. A nossa goiabada é feita artesanalmente preservando toda a arte envolvida na fabricação desse doce, o que a diferencia no mercado a tornando um de nossos produtos mais desejados pelos nossos clientes."
+      ],
+      "banner-01": "compotas/banner-1",
+      "banner-02": "compotas/banner-2",
+      "data": [
+        {
+          "title": "Goiabada Lisa 500g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "goiabada/goiabadalisa"
+        },
+        {
+          "title": "Goiabada Lisa 1kg",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "goiabada/goiabadalisa1kg"
+        },
+        {
+          "title": "Goiabinha 60g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "goiabada/goiabinha60g"
+        },
+        {
+          "title": "Goiabada Cascão 500g",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "goiabada/goiabadacascao500g"
+        },
+        {
+          "title": "Goiabada Cascão 1kg",
+          "description": "Doces feitos a mão com frutas orgânicas.",
+          "cod": "0",
+          "image": "goiabada/goiabadacascao1kg"
+        }
+      ]
+    }
+  ]
+}

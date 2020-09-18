@@ -1,0 +1,23 @@
+.salesPlaceBox {
+  background-color: #cf6f54;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 200px;
+
+  .btnSaleBox {
+    cursor: pointer;
+    background-color: #fff;
+    padding: 15px 40px;
+    color: #cf6f54;
+    border-radius: 100px;
+    font-weight: 700;
+  }
+  .btnDelivery {
+  }
+}

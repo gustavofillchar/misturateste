@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "name": "Bombocado e Pão de Mel",
+      "city": "Poços de Caldas/MG",
+      "contact": "35 99210-0242",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Empório Du Carmo - Prudente de Moraes",
+      "city": "Belo Horizonte/MG",
+      "contact": "31 3344-0587",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Empório Du Carmo - Santo Agostinho",
+      "city": "Belo Horizonte/MG",
+      "contact": "31 3582-1919",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Vaquinha da nevada",
+      "city": "Luxemburgo - Belo Horizonte/MG",
+      "contact": "31 2516-4121",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Natty Gourmet Representante",
+      "city": "Belo Horizonte/MG e região Buritis",
+      "contact": "31 99534-0404",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Empório da terra",
+      "city": "São Sebastião do Paraíso/MG",
+      "contact": "35 98855-8266",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Venda do Chico",
+      "city": "Três corações/MG",
+      "contact": "-",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Venda do Chico",
+      "city": "Poços de Caldas/MG",
+      "contact": "-",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Venda do Chico",
+      "city": "Caxambu/MG",
+      "contact": "-",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Venda do Chico",
+      "city": "Carmopolis/MG",
+      "contact": "-",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Venda do Chico",
+      "city": "Formiga/MG",
+      "contact": "-",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Fábrica de Chocolate",
+      "city": "Tiradentes/MG",
+      "contact": "32 99987-8567",
+      "state": "Minas Gerais"
+    },
+    {
+      "name": "Fazenda Comodoro",
+      "city": "São José do Rio Preto/SP",
+      "contact": "17 98121-1110",
+      "state": "São Paulo"
+    },
+    {
+      "name": "Casa Mineira",
+      "city": "Londrina/PR",
+      "contact": "31 99714-6994",
+      "state": "Paraná"
+    },
+    {
+      "name": "Armazém da Nana",
+      "city": "Rio de Janeiro/RJ",
+      "contact": "21 98017-0732",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "name": "Casa Beltrão",
+      "city": "Campo Grande/MS",
+      "contact": "67 3324-2722",
+      "state": "Mato Grosso do Sul"
+    },
+    {
+      "name": "Deliave",
+      "city": "Barreiras/BA",
+      "contact": "77 3612-4333",
+      "state": "Bahia"
+    },
+    {
+      "name": "Delícia Café",
+      "city": "Brasília/DF",
+      "contact": "61 3347-7811",
+      "state": "Distrito Federal"
+    },
+    {
+      "name": "Empório Caetano",
+      "city": "Salvador/BA",
+      "contact": "71 99405-0605",
+      "state": "Bahia"
+    },
+
+    {
+      "name": "Empório Coisas de Minas Mooca",
+      "city": "São Paulo/SP",
+      "contact": "61 3347-7811",
+      "state": "São Paulo"
+    },
+
+    {
+      "name": "Empório Espaço de Minas ",
+      "city": "Alphaville São Paulo/SP",
+      "contact": "-",
+      "state": "São Paulo"
+    },
+    {
+      "name": "Empório Kanto de Minas",
+      "city": "Campo Grande/MS",
+      "contact": "11 2081-0335",
+      "state": "Mato Grosso do Sul"
+    },
+    {
+      "name": "Empório Santa Terezinha ",
+      "city": "Ribeirão Preto/SP",
+      "contact": "16 39043665",
+      "state": "São Paulo"
+    },
+    {
+      "name": "Empório São José",
+      "city": "Maringá/PR",
+      "contact": "44 3346-3788 | 44 98409-7993",
+      "state": "Paraná"
+    },
+    {
+      "name": "Fazenda Comadre",
+      "city": "Paraibuna/SP",
+      "contact": "12 3974-7181",
+      "state": "São Paulo"
+    },
+    {
+      "name": "Gaby Congelados",
+      "city": "Araçatuba/SP",
+      "contact": "18 31175071",
+      "state": "São Paulo"
+    },
+    {
+      "name": "Dona Compota",
+      "city": "Fortaleza/CE",
+      "contact": "85 98732-2412",
+      "state": "Ceará"
+    },
+
+    {
+      "name": "Hortifruti do André",
+      "city": "Petrópolis/RJ",
+      "contact": "24 2222-1190",
+      "state": "Rio de Janeiro"
+    },
+
+    {
+      "name": "Meninas de Lá",
+      "city": "São Paulo/SP",
+      "contact": "11 99526-8685 | 11 98914-3630",
+      "state": "São Paulo"
+    },
+
+    {
+      "name": "Meninas de Minas",
+      "city": "Florianópolis/SC",
+      "contact": "48 99156-1789",
+      "state": "Santa Catarina"
+    },
+
+    {
+      "name": "Os Legítimos Quitutes de Minas",
+      "city": "São Caetano/SP",
+      "contact": "11 97512-2120",
+      "state": "São Paulo"
+    },
+
+    {
+      "name": "Pasta em Casa ",
+      "city": "Salvador/BA",
+      "contact": "24 2222-1190",
+      "state": "Bahia"
+    },
+
+    {
+      "name": "Ranchinho",
+      "city": "Paraibuna/SP",
+      "contact": "12 7850-8000",
+      "state": "São Paulo"
+    },
+
+    {
+      "name": "Du Carmo",
+      "city": "Goiânia/GO",
+      "contact": "62 98122-4000",
+      "state": "Goiás"
+    },
+
+    {
+      "name": "Baum Dimais",
+      "city": "Ribeirão Preto/SP",
+      "contact": "16 99620-3017",
+      "state": "São Paulo"
+    }
+  ]
+}

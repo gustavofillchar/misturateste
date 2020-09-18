@@ -1,0 +1,120 @@
+.storybackground {
+  background-color: #ececec;
+  background-image: url("../../../assets/funco.png");
+  background-size: 220px;
+}
+
+.boxhistory {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  height: auto;
+  padding: 10px 0;
+
+  .itemhistory {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+    -moz-box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+    box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+  }
+  .photo {
+    background-image: url("../../../assets/banner4.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+  }
+
+  .historyText {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h1 {
+      color: #824744;
+      font-family: "Dancing Script", cursive;
+      margin: 0 0 20px 0;
+      font-size: 3em;
+      font-weight: 700;
+
+      letter-spacing: 1px;
+    }
+
+    p {
+      color: #777;
+      text-align: center;
+      font-family: "Raleway", sans-serif;
+      font-size: 1.15em;
+    }
+  }
+}
+
+@media (min-width: 576px) {
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .storybackground {
+    background-color: #ececec;
+    padding: 50px 0;
+
+    .boxhistory {
+      display: flex;
+      flex-direction: row;
+      align-items: stretch;
+
+      .itemhistory {
+        background-color: #fff;
+        width: 100%;
+        margin: 0 7px;
+        border-radius: 3px;
+        -webkit-box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+        -moz-box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+        box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.07);
+        .photo {
+          background-image: url("../../../assets/banner4.jpg");
+          background-position: center;
+          background-size: cover;
+          height: 100%;
+          width: 100%;
+          background-repeat: no-repeat;
+        }
+      }
+
+      .historyText {
+        padding: 30px;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        h1 {
+          color: #824744;
+
+          margin: 0 0 20px 0;
+          font-size: 4em;
+          letter-spacing: 3px;
+        }
+
+        p {
+          color: #777;
+          text-align: center;
+          font-family: "Raleway", sans-serif;
+          font-size: 1.15em;
+        }
+      }
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
